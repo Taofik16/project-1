@@ -15,12 +15,12 @@ img:hover{
     transition: 0.5s all;
     
 }
-#main{ animation-name: fade-in;
+/* #main{ animation-name: fade-in;
        animation-duration: 0.5s;
        animation-timing-function: ;
        animation-iteration-count: infinite;
        animation-delay:0s;
-}
+} */
 body{
     background:rgb(187, 225, 235) ;
 }
